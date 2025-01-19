@@ -1,30 +1,49 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetcanari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=mehmetcanari&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetcanari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h1 align="center">Hi 👋, I'm Mehmet Can</h1>
+<h2 align="center">.NET Backend Developer</h2>
 
-###
 
-<br clear="both">
+- 🔭 I’m currently working on **.NET Core and improving myself on Backend Development**  
+- 🌱 Enhancing my backend skills in:
+  - RESTful APIs
+  - Database Design
+  - Entity Framework Core
+  - N-Tier Architecture
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-</div>
+- 🎮 Leveraging 4 years of Game Development experience with strong foundations in:
+  - Software Architecture
+  - Performance Optimization
+  - Problem-solving
+  - Mobile Development (iOS/Android)
 
-###
+- 📫 How to reach me: **bsn.mehmetcanari@gmail.com**
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mehmetcanari/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+---
+
+### Tech Stack:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="Swagger" />
+</p>
+
+### Connect with me:
+<p>
+<a href="https://www.linkedin.com/in/mehmetcanari/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/mehmetcanari/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
+</a>
+
+</p>
+
+---
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmetcanari&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=false&custom_title=My%20GitHub%20Stats%20(2025)" height="180" alt="commit stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetcanari&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=5&theme=midnight-purple&hide_border=false" height="180" alt="languages graph" />
 </div>
 
