@@ -43,7 +43,7 @@
 ---
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetcanari&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=false&custom_title=My%20GitHub%20Stats%20(2025)" height="180" alt="commit stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmetcanarii&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=false&custom_title=My%20GitHub%20Stats%20(2025)" height="180" alt="commit stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetcanari&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=5&theme=midnight-purple&hide_border=false" height="180" alt="languages graph" />
 </div>
 
