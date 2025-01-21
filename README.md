@@ -13,7 +13,6 @@
   - Software Architecture
   - Performance Optimization
   - Problem-solving
-  - Mobile Development (iOS/Android)
 
 - 📫 How to reach me: **bsn.mehmetcanari@gmail.com**
 
