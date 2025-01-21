@@ -34,7 +34,7 @@
 <a href="https://www.linkedin.com/in/mehmetcanari/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/mehmetcanari/" target="_blank">
+<a href="https://www.instagram.com/mehmetcanarii/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
 </a>
 
