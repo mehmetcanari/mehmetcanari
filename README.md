@@ -7,7 +7,6 @@
   - RESTful APIs
   - Database Design
   - Entity Framework Core
-  - N-Tier Architecture
 
 - 🎮 Leveraging 4 years of Game Development experience with strong foundations in:
   - Software Architecture
