@@ -1,18 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet Can</h1>
-<h2 align="center">.NET Backend Developer</h2>
-
 
 - 🔭 I’m currently working on **.NET Core and improving myself on Backend Development**  
-- 🌱 Enhancing my backend skills in:
-  - RESTful APIs
-  - Database Design
-  - Entity Framework Core
-
-- 🎮 Leveraging 4 years of Game Development experience with strong foundations in:
-  - Software Architecture
-  - Performance Optimization
-  - Problem-solving
-
 - 📫 How to reach me: **bsn.mehmetcanari@gmail.com**
 
 ---
@@ -42,7 +30,6 @@
 ---
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetcanari&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=false&custom_title=My%20GitHub%20Stats%20(2025)" height="180" alt="commit stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetcanari&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=5&theme=midnight-purple&hide_border=false" height="180" alt="languages graph" />
 </div>
 
