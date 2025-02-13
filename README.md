@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet Can</h1>
 
-- 🔭 I’m currently working on **.NET Core and improving myself on Backend Development**  
+- 🔭 I’m currently working on **ASP.NET Core and improving myself on Backend Development**  
 - 📫 How to reach me: **bsn.mehmetcanari@gmail.com**
 
 ---
