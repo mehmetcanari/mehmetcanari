@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Can</h1>
 
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Coding Animation" height="300" />
-</p>
-
 - 🔭 I’m currently focused on **Backend Development with ASP.NET**
 - 💻 Previously worked professionally as a **Unity Game Developer for 4 years**
 - 📫 Reach me at: **bsn.mehmetcanari@gmail.com**
@@ -47,8 +43,3 @@
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetcanari&locale=en&hide_title=false&layout=compact&card_width=360&langs_count=5&theme=midnight-purple&hide_border=false" height="180" alt="languages graph" />
-</div>
-
