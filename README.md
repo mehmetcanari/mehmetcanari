@@ -34,14 +34,11 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetcanari&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetcanari&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcanari&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcanari&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="34.4%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetcanari&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
 
 ---
 
