@@ -1,5 +1,4 @@
 # Hi 👋, I'm Mehmet Can
-
 - 🔭 I'm currently focused on **Backend Development with ASP.NET**
 - 💻 Previously worked professionally as a **Unity Game Developer for 4 years**
 - 📫 Reach me at: **bsn.mehmetcanari@gmail.com**
@@ -7,7 +6,6 @@
 ---
 
 ## 🛠️ Technologies & Tools
-
 <p>
   <!-- Language & Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
@@ -20,6 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />
   <!-- Search & Messaging -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="40" alt="Elasticsearch" />
@@ -35,10 +34,13 @@
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mehmetcanari&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetcanari&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcanari&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
 </div>
 
 ---
